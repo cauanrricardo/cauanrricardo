@@ -19,3 +19,7 @@
 <div = style = "display: inline_block"><br/>
 <img align = "center" alt = "pyton"src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whitee"/>
 </div>
+
+#### Um passo de cada vez, um código de cada vez.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanrricardo&compact_progress=true)
