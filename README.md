@@ -1,13 +1,10 @@
 
 ### Olá, eu sou Cauan Ricardo 🤙
 
-#### 🎓 Cursando Engenharia de Software pela Universidade Federal do Ceará
-#### 📅 Estudante do primeiro semestre 2024.1
-
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/?igshid=MzRlODBiNWFlZA%3D%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-ricardo-ribeiro-2b1340223/)
 
-![Cauanrricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&theme=radical)
+![Cauanrricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&theme=)
 
 ## Tecnologias que eu utilizo no meu dia:
 
@@ -21,6 +18,11 @@
 
 <div = style = "display: inline_block"><br/>
 <img align = "center" alt = "pyton"src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=whitee"/>
+</div>
+
+
+<div = style = "display: inline_block"><br/>
+<img align = "center" alt = "git"src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 #### Um passo de cada vez, um código de cada vez.
