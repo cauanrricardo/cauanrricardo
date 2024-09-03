@@ -1,7 +1,8 @@
 
 ### Olá, eu sou Cauan Ricardo 🤙
 
-#### 📙 Cursando Engenharia de Software pela Universidade Federal do Ceará
+#### 🎓 Cursando Engenharia de Software pela Universidade Federal do Ceará
+#### 📅 Estudante do primeiro semestre 2024.1
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/?igshid=MzRlODBiNWFlZA%3D%3D)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-ricardo-ribeiro-2b1340223/)
