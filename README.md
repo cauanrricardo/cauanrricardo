@@ -1,11 +1,13 @@
 ### Olá, eu sou Cauan Ricardo 🤙
 
+Sou estudante de **Engenharia de Software** na Universidade Federal do Ceará (UFC), atualmente no 2º semestre, e estou constantemente explorando novas tecnologias para aprimorar minhas habilidades de desenvolvimento.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/?igshid=MzRlODBiNWFlZA%3D%3D)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-ricardo-ribeiro-2b1340223/)
 
 ![Cauanrricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&theme=dark)
 
-## Tecnologias que eu utilizo no meu dia:
+## Tecnologias que eu utilizo no meu dia a dia:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
