@@ -1,37 +1,38 @@
-
 ## About me 🤙:
 I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in my 3rd semester. I'm always exploring new technologies to improve my development skills.
 
-## 🚀 Principais Projetos // Main Projects
+## 🚀 Main Projects
 
-| Nome | Descrição | Tecnologias |
-|------|-----------|-------------|
-| [**Simulador-CPU**](https://github.com/cauanrricardo/Simulador-CPU) | Simualdor de CPU. | C |
-| [**Gerenciador de Eventos**](https://github.com/cauanrricardo/Gerenciador-de-Eventos) | Um sistema simples para gerenciar eventos | Java, Git |
-| [**Pomodoro Timer**](https://github.com/cauanrricardo/Pomodoro-timer) | Pomodoro Timer desenvolvido em Java para ajudar a gerenciar o tempo. | Java, Git|
+| Name | Description | Tech |
+|------|-------------|------|
+| [**Simulador de CPU**](https://github.com/cauanrricardo/Simulador-CPU) | Simulador de escalonamento de processos desenvolvido em C. | C |
+| [**Gerenciador de Eventos**](https://github.com/cauanrricardo/Gerenciador-de-Eventos) | Sistema simples para cadastro e controle de eventos. | Java, Git |
+| [**Pomodoro Timer**](https://github.com/cauanrricardo/Pomodoro-timer) | Temporizador Pomodoro feito em Java para auxiliar na produtividade. | Java, Git |
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cauanrricardo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cauanrricardo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauanrricardo@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauanrricardo@gmail.com) 
 
 ## 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="Julia logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
 </div>
 
 ###
