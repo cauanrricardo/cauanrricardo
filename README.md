@@ -1,5 +1,5 @@
 ## About me 🤙:
-I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in my 3rd semester. I'm always exploring new technologies to improve my development skills.
+I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in my 4rd semester. I'm always exploring new technologies to improve my development skills.
 
 ## 🚀 Main Projects
 
