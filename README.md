@@ -1,14 +1,6 @@
 ## About me 🤙:
 I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in my 4rd semester. I'm always exploring new technologies to improve my development skills.
 
-## 🚀 Main Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| [**Simulador de CPU**](https://github.com/cauanrricardo/Simulador-CPU) | Simulador de escalonamento de processos desenvolvido em C. | C |
-| [**Gerenciador de Eventos**](https://github.com/cauanrricardo/Gerenciador-de-Eventos) | Sistema simples para cadastro e controle de eventos. | Java, Git |
-| [**Pomodoro Timer**](https://github.com/cauanrricardo/Pomodoro-timer) | Temporizador Pomodoro feito em Java para auxiliar na produtividade. | Java, Git |
-
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
@@ -42,13 +34,3 @@ I'm a Software Engineering student at the Federal University of Ceará (UFC), cu
 ![](https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cauanrricardo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=cauanrricardo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanrricardo/cauanrricardo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanrricardo/cauanrricardo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
