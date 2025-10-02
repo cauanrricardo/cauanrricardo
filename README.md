@@ -1,20 +1,22 @@
-## Hi, Cauan Ricardo here:
+## Hello!
+<img align="right" src="QA engineers-bro.png" alt="QA Engineers illustration" width="300"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cauanrricardo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2E7D32.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
+[![Gmail](https://img.shields.io/badge/Gmail-2E7D32?logo=gmail&logoColor=white)](mailto:cauanrricardo@gmail.com)
 
-- 🎓 I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
--    20 years old, I started programming in 2024 and I'm improving my skills as a **QA Tester** and backend developer.  
-- 📂 Check out some of my projects here on GitHub.  
--    football fan, and mineiro.
-- 🚀 Always moving forward. Let's go *pra cima*! 
+## About me:
 
-QA Analyst | C, Java, Python, Golang| Testes Manuais e Funcionais | Git, GitHub | PostgreSQL
+ (QA Analyst | C, Java, Python, Golang| Testes Manuais e Funcionais | Git, GitHub | PostgreSQL)
+
+- I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
+-  20 years old, started programming in 2024 and improving my skills as a **QA Tester** and backend developer.  
+- Check out some of my projects here on GitHub.  
+-  Football fan and proud Mineiro.  
+-  Always moving forward. Let's go *pra cima*!  
 
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=cauanrricardo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117)
 
 
 <div align="left">
