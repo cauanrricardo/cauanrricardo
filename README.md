@@ -19,10 +19,17 @@
 -  Always moving forward. Let's go *pra cima*!  
 
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117" height="165" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117" height="165"/>
+    </td>
+  </tr>
+</table>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
