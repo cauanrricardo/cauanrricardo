@@ -13,7 +13,7 @@
  
 
 - I'm a Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
--  20 years old, started programming in 2024 and improving my skills as a **QA Tester**.  
+-  20 years old, started programming in 2024 and improving my skills as a QA Tester.  
 - Check out some of my projects here on GitHub.  
 -  Football fan and proud Mineiro.  
 -  Always moving forward. Let's go *pra cima*!  
