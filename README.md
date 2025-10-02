@@ -19,9 +19,9 @@
 -  Always moving forward. Let's go *pra cima*!  
 
 
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117" height="165"/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117" height="165" />
 </div>
 
 <div align="left">
