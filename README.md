@@ -8,7 +8,7 @@
 
 ## About me:
 
- (QA Analyst | C, Java, Python, Golang| Manual Testing and Functional Testing | Git, GitHub | PostgreSQL)
+ (QA Analyst | C, Java, Python, Golang| Manual Testing and Functional Testing | JUnit, JMeter| Git, GitHub | PostgreSQL)
 
  
 
@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" />
+ <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="30" alt="JUnit logo" />
+  <img width="6" />
+ <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="30" alt="JMeter logo" />
 </div>
 
 
