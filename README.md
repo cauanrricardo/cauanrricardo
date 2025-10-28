@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E7D32.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
 [![Gmail](https://img.shields.io/badge/Gmail-2E7D32?logo=gmail&logoColor=white)](mailto:cauanrricardo@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-2E7D32?logo=instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/)
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)](https://github.com/Pokeyo-AB/homeassistant-perific)
 
 
 ## About me
@@ -46,6 +47,7 @@
   <img src="https://cdn.simpleicons.org/junit5/25A162" height="30" alt="JUnit 5" title="JUnit 5" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  
 
 </div>
 
