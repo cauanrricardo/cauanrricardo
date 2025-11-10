@@ -9,7 +9,7 @@
 
 
 ## About me
-**QA Analyst** | C, Java, Python, Go | Manual & Functional Testing | JUnit, JMeter | Git, GitHub, PostgreSQL  
+**QA Analyst**  | Manual & Automation Testing | Java, Python, C | Selenium, JUnit, TestNG, JMeter, Cucumber | Git & GitHub
 
 - Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
 - 20 years old, started programming in 2024 and focused on improving QA testing skills.  
