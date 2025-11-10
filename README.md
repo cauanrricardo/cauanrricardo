@@ -44,12 +44,13 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/junit5/25A162" height="30" alt="JUnit 5" title="JUnit 5" />
   <img width="6" />
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="30" alt="Cucumber" title="Cucumber" />
+  <img width="6" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="Selenium" title="Selenium" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
 
-  
 
 </div>
 
