@@ -16,7 +16,6 @@
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
 - _“Stay hungry, stay foolish.”_ — **Steve Jobs**
-
 <table>
   <tr>
     <td>
