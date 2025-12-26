@@ -7,7 +7,6 @@
 <br>
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)](https://github.com/Pokeyo-AB/homeassistant-perific)
 
-
 ## About me
 **QA Analyst**  | Manual & Automation Testing | Java, Python, C | Selenium, JUnit, TestNG, JMeter, Cucumber | Git & GitHub
 
