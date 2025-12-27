@@ -9,7 +9,6 @@
 
 ## About me
 **QA Analyst**  | Manual & Automation Testing | Java, Python, C | Selenium, JUnit, TestNG, JMeter, Cucumber | Git & GitHub
-
 - Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
 - 20 years old, started programming in 2024 and focused on improving QA testing skills.  
 - Football fan and proud Mineiro.  
