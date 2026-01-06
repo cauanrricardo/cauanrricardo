@@ -24,8 +24,11 @@
     </td>
   </tr>
 </table>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" title="Spring Boot" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="6" />
@@ -40,6 +43,10 @@
   <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="30" alt="Apache JMeter" title="Apache JMeter" />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/junit5/25A162" height="30" alt="JUnit 5" title="JUnit 5" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" title="Postman" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="30" alt="REST API" title="REST API" />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="30" alt="Cucumber" title="Cucumber" />
   <img width="6" />
