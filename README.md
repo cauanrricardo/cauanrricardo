@@ -8,8 +8,8 @@
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)](https://github.com/Pokeyo-AB/homeassistant-perific)
 
 ## About me
-**QA Analyst**  | Manual & Automation Testing | Java, Python, C | Selenium, JUnit, TestNG, JMeter, Cucumber | Git & GitHub
-- Software Engineering student at the Federal University of Ceará (UFC), currently in the 4th semester.  
+**QA Analyst**  | Manual & Automation Testing | Java |Spring Boot | Selenium, JUnit, TestNG, Mockito | Ci/CD | Git & GitHub
+- Software Engineering student at the Federal University of Ceará (UFC), currently in the 5th semester.  
 - 20 years old, started programming in 2024 and focused on improving QA testing skills.  
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
