@@ -13,7 +13,7 @@
 - 20 years old, started programming in 2024 and focused on improving QA testing skills.  
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
-- _“Stay hungry, stay foolish.”_ — **Steve Jobs**
+- _“Stay hungry, stay foolish.”_ — **Steve Jobbs**
 <table>
   <tr>
     <td>
