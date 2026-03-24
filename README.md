@@ -14,13 +14,14 @@
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
 - _“Stay hungry, stay foolish.”_ — **Steve Jobbs**
+  
 <table>
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=cauanrricardo&theme=green_nur&hide_border=false" height="165" alt="GitHub Streak Stats"/>
+      <img src="https://streak-stats.demolab.com?user=cauanrricardo&theme=green_nur&hide_border=false" height="165" alt="GitHub Streak Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&hide_border=false&include_all_commits=false&count_private=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117" height="165" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&hide_border=false&title_color=00ff99&text_color=c9d1d9&icon_color=00ff99&bg_color=0d1117&cache_seconds=1800" height="165" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
