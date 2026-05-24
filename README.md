@@ -1,4 +1,4 @@
-## Hello, I'm Cauan Ricardo
+## Hello, I'm Cauan Ricardo Ribeiro
 <img align="right" src="QA-engineers-bro.png" alt="QA Engineers illustration" width="360"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2E7D32.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauanrricardo/) 
