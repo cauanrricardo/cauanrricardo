@@ -10,7 +10,7 @@
 ## About me
 **QA Analyst** | Manual & Automation Testing | Java |Spring Boot | Selenium, JUnit, TestNG, Mockito, Playwright | Ci/CD | Git & GitHub | Docker | K8s | VM | AWS | Gitlab  | Github
 - Software Engineering student at the Federal University of Ceará (UFC), currently in the 5th semester.  
-- 20 years old, started programming in 2024 and focused on improving QA testing skills.  
+- 21 years old, started programming in 2024 and focused on improving QA testing skills.  
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
 - _“Stay hungry, stay foolish.”_ — **Steve Jobbs**
