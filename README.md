@@ -13,8 +13,8 @@
 - 21 years old, started programming in 2024 and focused on improving QA testing skills.  
 - Football fan and proud Mineiro.  
 - Check out some of my projects here on GitHub.  
-- _“Stay hungry, stay foolish.”_ — **Steve Jobbs**
-  
+- _"Stay hungry, stay foolish."_ — **Steve Jobs**
+
 <table>
   <tr>
     <td>
@@ -27,33 +27,26 @@
 </table>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="Selenium" title="Selenium" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="30" alt="Apache JMeter" title="Apache JMeter" />
-  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="Playwright" title="Playwright" />
   <img src="https://cdn.simpleicons.org/junit5/25A162" height="30" alt="JUnit 5" title="JUnit 5" />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" title="Postman" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="30" alt="REST API" title="REST API" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL" title="SQL" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="30" alt="Cucumber" title="Cucumber" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="Selenium" title="Selenium" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" title="GitHub" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" title="AWS" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" title="Jenkins (CI/CD)" />
 </div>
