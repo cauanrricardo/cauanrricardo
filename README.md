@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-2E7D32?logo=instagram&logoColor=white)](https://www.instagram.com/cauanrricardo/)
 <br>
 [![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)](https://github.com/Pokeyo-AB/homeassistant-perific)
-
 ## About me
 **QA Analyst** | Manual & Automation Testing | Java | Selenium | Playwright | JUnit | TestNG | Mockito | Pytest | API Testing | SQL | CI/CD | Git & GitHub | Docker | AWS | Agile/Scrum
 - Software Engineering student at the Federal University of Ceará (UFC), currently in the 6th semester.  
