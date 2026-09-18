@@ -15,29 +15,20 @@
 - Check out some of my projects here on GitHub.  
 - _"Stay hungry, stay foolish."_ — **Steve Jobs**
 
-<div align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=cauanrricardo&theme=green_nur&hide_border=false" height="165" alt="GitHub Streak Stats"/>
-</div>
+</p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="Selenium" title="Selenium" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="Playwright" title="Playwright" />
   <img src="https://cdn.simpleicons.org/junit5/25A162" height="30" alt="JUnit 5" title="JUnit 5" />
-  <img width="6" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" title="Postman" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="SQL" title="SQL" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" title="AWS" />
-  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" title="Jenkins (CI/CD)" />
 </div>
