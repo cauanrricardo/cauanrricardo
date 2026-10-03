@@ -16,7 +16,7 @@
 - _"Stay hungry, stay foolish."_ — **Steve Jobs**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cauanrricardo&theme=green-nur&hide_border=false" height="165" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=cauanrricardo&theme=green-nur&hide_border=false&border=5AFFC8" height="165" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&theme=dark&bg_color=0A1E17&title_color=5AFFC8&icon_color=5AFFC8&text_color=FFFFFF&border_color=5AFFC8&hide_border=false" alt="Estatísticas do GitHub" height="165"/>
 </p>
 
