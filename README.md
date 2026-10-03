@@ -20,10 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cauanrricardo&show_icons=true&theme=dark&bg_color=0A1E17&title_color=5AFFC8&icon_color=5AFFC8&text_color=FFFFFF&border_color=5AFFC8&hide_border=false" alt="Estatísticas do GitHub" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cauanrricardo&bg_color=0A1E17&color=5AFFC8&line=5AFFC8&point=FFFFFF&area_color=123D2E&area=true&hide_border=false" alt="Gráfico de contribuições do GitHub"/>
-</p>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
@@ -35,5 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins" title="Jenkins (CI/CD)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins (CI/CD)" title="Jenkins (CI/CD)" />
 </div>
